@@ -7,3 +7,5 @@ This is for flooding serial input for stress testing JMP (https://www.jmp.com/en
 For use with Adafruit 2.8 TFT Touch Shield for Arduino (https://www.adafruit.com/product/1947).
 
 Make sure you install the "Required Libraries" otherwise the build will fail. You can still open "Arduino_Serial_Touchscreen_Tester.ino" in the normal Arduino IDE and use the code fine, the Visual Micro plugin is not required.
+
+The "Release" and "Debug" builds were build for ATmega2560/Arduino Mega 2560.
