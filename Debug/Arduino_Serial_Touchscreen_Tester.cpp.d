@@ -1,0 +1,22 @@
+C:\Users\joesc\AppData\Local\Temp\VMBuilds\Arduino_Serial_Touchscreen_Tester\mega_atmega2560\Debug\Arduino_Serial_Touchscreen_Tester.cpp.o: \
+ C:\Users\joesc\AppData\Local\Temp\VMBuilds\Arduino_Serial_Touchscreen_Tester\mega_atmega2560\Debug\Arduino_Serial_Touchscreen_Tester.cpp \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/Arduino.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/binary.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/WCharacter.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/WString.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/HardwareSerial.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/Stream.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/Print.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/Printable.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/USBAPI.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/Arduino.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\variants\mega/pins_arduino.h \
+ C:\Users\joesc\Documents\Arduino\libraries\Adafruit-GFX-Library-master/Adafruit_GFX.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/Print.h \
+ C:\Users\joesc\Documents\Arduino\libraries\Adafruit-GFX-Library-master/gfxfont.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\libraries\SPI\src/SPI.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\libraries\Wire\src/Wire.h \
+ C:\Users\joesc\AppData\Local\arduino15\packages\arduino\hardware\avr\1.6.20\cores\arduino/Stream.h \
+ C:\Users\joesc\Documents\Arduino\libraries\Adafruit_ILI9341-master/Adafruit_ILI9341.h \
+ C:\Users\joesc\Documents\Arduino\libraries\Adafruit_FT6206_Library-master/Adafruit_FT6206.h \
+ C:\Program\ Files\ (x86)\Microsoft\ Visual\ Studio\2017\Community\Common7\IDE\Extensions\iznu5qi1.uuf\Micro\ Platforms\default\debuggers\VM_DBG/VM_DBG.h
